@@ -8,7 +8,7 @@
 
 - Ponce Martínez Luis Carlos  
 - Manzo Padilla Andrés Maximiliano  
-- Quevedo Salazar Diego André  
+- Quevedo Salazar Diego Andrés
 - Solís Quiñones Héctor Alejandro  
 
 ---
