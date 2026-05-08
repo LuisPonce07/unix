@@ -34,7 +34,6 @@ El proyecto está compuesto por:
 
 # Estructura del proyecto
 
-```
 
 /scripts        → Script principal (normalize.sh)
 /data           → Archivos de entrada y casos de prueba
