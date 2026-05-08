@@ -32,7 +32,7 @@ El proyecto está compuesto por:
 
 ---
 
-# 📁 Estructura del proyecto
+# Estructura del proyecto
 
 ```
 
@@ -106,5 +106,3 @@ chmod +x scripts/normalize.sh
 # Conclusión
 
 Este proyecto implementa una solución en UNIX para la normalización de números telefónicos internacionales, facilitando la limpieza y estandarización de datos provenientes de múltiples formatos y países.
-
-
